@@ -76,7 +76,7 @@ I'm a **4th-year Computer Science Specialist in Software Engineering** at the Un
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=davidqu921&theme=react&hide_border=true&card_width=600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidqu921&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🔬 Current Research & Projects
