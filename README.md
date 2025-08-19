@@ -15,7 +15,7 @@
 I'm a **4th-year Computer Science Specialist in Software Engineering** at the University of Toronto Scarborough, passionate about revolutionizing healthcare through AI. Currently working as an **AI Algorithm Engineer** at a medical technology company in Shanghai, developing cutting-edge deep learning solutions for clinical applications.
 
 - 🎓 **Academic Excellence**: Dean's List Student (2021-2024), President's Scholar ($10,000)
-- 🏥 **Current Role**: AI Algorithm Engineer at Yangtze River Delta Guozhi Intelligent Medical Technology
+- 🏥 **Previous Role**: AI Algorithm Engineer at Yangtze River Delta Guozhi Intelligent Medical Technology
 - 🔬 **Research Focus**: Medical Image Analysis, Computer Vision, Deep Learning for Healthcare
 - 📝 **Publications**: Contributing author on neural network architecture improvements (HoVer-Net)
 - 🤝 **Seeking**: Research collaborations, medical AI projects, academic partnerships
