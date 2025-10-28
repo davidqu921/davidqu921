@@ -23,7 +23,7 @@ I'm a **4th-year Computer Science Specialist in Software Engineering** at the Un
 
 ## 💼 Professional Experience
 
-### 🧠 AI Algorithm Engineer | *Jan 2025 - Present*
+### 🧠 AI Algorithm Engineer | *Jan 2025 - Sept 2025*
 **Yangtze River Delta Guozhi Intelligent Medical Technology Co., Ltd** | *Shanghai, China*
 
 - 🏥 **Impact**: Deployed AI solutions at **Huashan Hospital** (Fudan University affiliate)
@@ -42,7 +42,7 @@ I'm a **4th-year Computer Science Specialist in Software Engineering** at the Un
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -105,7 +105,6 @@ class RareDiseaseAI:
 ### 📱 School Events Management System | *Fall 2023*
 - 🏆 **Recognition**: CSCB09 Final Project (University of Toronto)
 - 📱 **Platform**: Full-stack Android application
-- 👥 **Users**: 100+ students in CMS department
 - ⚡ **Features**: Event management, complaint system, RSVP functionality
 
 ## 📝 Publications & Research
