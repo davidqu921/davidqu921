@@ -26,7 +26,7 @@ Developing a data-driven framework for evaluating LLM safety under adaptive, mul
 
 Explored architectural enhancements to HoVer-Net for automated nuclear segmentation and classification, including multi-scale feature fusion and attention-based components.
 
-**Publication:** [Exploring Architectural Enhancements for HoVer-Net: Deep Learning-based Method of Automated Nuclear Segmentation and Classification](https://doi.org/10.20944/preprints202506.1228.v1)
+**Archive:** [Exploring Architectural Enhancements for HoVer-Net: Deep Learning-based Method of Automated Nuclear Segmentation and Classification](https://doi.org/10.20944/preprints202506.1228.v1)
 
 `Computer Vision` `Medical Imaging` `Segmentation` `PyTorch`
 
