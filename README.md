@@ -8,7 +8,7 @@ Computer Science & Statistics student at the University of Toronto, working on *
 
 ## About
 
-- Undergraduate researcher in conversational AI safety at the University of Toronto Scarborough
+- Undergraduate researcher in conversational AI safety at the University of Toronto Scarborough 
 - Former AI Algorithm Engineer, with experience in RAG systems, medical image analysis, and multi-agent applications
 - Former Database Developer at the York Region District School Board
 - President's Scholar of Excellence and three-time Dean's List recipient
@@ -40,7 +40,7 @@ Built applied AI systems for rare-disease information retrieval, whole-slide pat
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| Undergraduate Researcher | University of Toronto Scarborough | 2026–Present |
+| Undergraduate Researcher | University of Toronto Scarborough & Computing Research Association | 2026–Present |
 | AI Algorithm Engineer | Yangtze River Delta Guozhi Intelligent Medical Technology | 2025 |
 | Database Developer Intern | York Region District School Board | 2023 |
 
