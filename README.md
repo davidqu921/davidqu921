@@ -4,7 +4,7 @@ Computer Science & Statistics student at the University of Toronto, working on *
 
 [![Email](https://img.shields.io/badge/Email-davidsz.qu%40mail.utoronto.ca-8B1D41?style=flat-square&logo=gmail&logoColor=white)](mailto:davidsz.qu@mail.utoronto.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Qu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-qu-03151124b)
-[![Publication](https://nacrp.online/journal/article/view/vol2-iss1-01)
+[![Publication](https://img.shields.io/badge/Publication-HoVer--Net_Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://nacrp.online/journal/article/view/vol2-iss1-01)
 
 ## About
 
